@@ -22,7 +22,7 @@ All of these information are reported in the pdf report in the file.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/amun-nx/MAS-Multi-Agent-System-.git
+git clone https://github.com/amun-nx/MAS-Multi-Agent-System.git
 ```
 
 ### 2. Install the Dependencies 
