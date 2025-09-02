@@ -1,4 +1,4 @@
-# 🔧 IN424 - Autonomous exploration using MASMATLAB-Projects
+# 🔧 IN424 - Autonomous exploration using MAS
 
 MAS (Multi-Agent System) project consisting of exploring an unknown space using 3 robots with LiDAR sensors using strategies and algorithms in ROS2. 
 This project is a school given by our teachers in order to better understand MAS. The project was greatly setup by them, the main changes that we did was on the in424_nav file. We coded there the MAS logic but also the displacement of the robots, the path planning (A star) and other things. 
